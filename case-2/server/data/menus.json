@@ -1,0 +1,32 @@
+[
+  {
+    "name": "coffe",
+    "category": "drink",
+    "status": "ready"
+  },
+  {
+    "name": "pizza",
+    "category": "food",
+    "status": "ready"
+  },
+  {
+    "name": "burger",
+    "category": "food",
+    "status": "ready"
+  },
+  {
+    "name": "tea",
+    "category": "drink",
+    "status": "ready"
+  },
+  {
+    "name": "chicken",
+    "category": "food",
+    "status": "notReady"
+  },
+  {
+    "name": "boba tea",
+    "category": "drink",
+    "status": "notReady"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "book",
+    "stock": 500,
+    "CompanyId": 1
+  },
+  {
+    "name": "game",
+    "stock": 700,
+    "CompanyId": 1
+  },
+  {
+    "name": "shoes",
+    "stock": 600,
+    "CompanyId": 1
+  }
+]

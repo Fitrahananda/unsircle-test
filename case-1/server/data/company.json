@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Lazaza",
+    "address": "jalan jakarta",
+    "description": "tempat belanja online terkece",
+    "UserId": 1
+  },
+  {
+    "name": "TokoDia",
+    "address": "jalan Bandung",
+    "description": "tempat belanja online tempat dia",
+    "UserId": 2
+  }
+]
